@@ -1,3 +1,4 @@
 [submodule "airdrop-asana-snap-in"]
 	path = airdrop-asana-snap-in
 	url = git@github.com:devrev/airdrop-asana-snap-in.git
+	branch = main
